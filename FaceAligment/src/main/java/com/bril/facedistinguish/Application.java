@@ -16,7 +16,7 @@ import com.bril.facedistinguish.utils.FaceDB;
 public class Application extends android.app.Application {
 	public final String TAG = this.getClass().toString();
 	public FaceDB mFaceDB;
-	Uri mImage;
+	Uri mImage ;
 
 	@Override
 	public void onCreate() {
