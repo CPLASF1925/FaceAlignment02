@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">人脸识别</string>
+    <string name="register_face">注册人脸</string>
+</resources>
